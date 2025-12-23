@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Debojit Sarkar
 - 👀 I’m interested in web Technologies and software
-- 🌱 I’m currently learning React along with C programming
+- 🌱 I’m currently learning Web Technologies
 - 💞️ I’m looking to collaborate on with Developers and techies
 - 📫 How to reach me https://www.linkedin.com/in/debojit-sarkar-b2062b312/
 
