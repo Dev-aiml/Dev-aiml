@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dev-aiml
+- 👋 Hi, I’m Debojit Sarkar
 - 👀 I’m interested in web Technologies and software
 - 🌱 I’m currently learning React along with C programming
 - 💞️ I’m looking to collaborate on with Developers and techies
